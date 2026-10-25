@@ -1,0 +1,13 @@
+## Interface: 16001, 120105
+## Title: GoldleafAddon
+## Notes: Goldleaf family RP dialogue helper – lightweight Blizzard-style frames
+## Author: Goldleaf Family
+## Version: 1.0.1
+## SavedVariables: GoldleafAddonDB
+
+Core.lua
+Goldleaf_Dialogue.lua
+CharacterLoader.lua
+ChatListener.lua
+ReplyBox.lua
+StarterButton.lua
